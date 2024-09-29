@@ -1,0 +1,11 @@
+/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/bin/Debug/net8.0/CR.MoneyControl.Entities.deps.json
+/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/bin/Debug/net8.0/CR.MoneyControl.Entities.dll
+/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/bin/Debug/net8.0/CR.MoneyControl.Entities.pdb
+/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/obj/Debug/net8.0/CR.MoneyControl.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/obj/Debug/net8.0/CR.MoneyControl.Entities.AssemblyInfoInputs.cache
+/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/obj/Debug/net8.0/CR.MoneyControl.Entities.AssemblyInfo.cs
+/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/obj/Debug/net8.0/CR.MoneyControl.Entities.csproj.CoreCompileInputs.cache
+/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/obj/Debug/net8.0/CR.MoneyControl.Entities.dll
+/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/obj/Debug/net8.0/refint/CR.MoneyControl.Entities.dll
+/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/obj/Debug/net8.0/CR.MoneyControl.Entities.pdb
+/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/obj/Debug/net8.0/ref/CR.MoneyControl.Entities.dll

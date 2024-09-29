@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CR.MoneyControl.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CR.MoneyControl.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CR.MoneyControl.Entities.dll": {}
+        }
+      },
+      "CR.MoneyControl.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CR.MoneyControl.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CR.MoneyControl.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CR.MoneyControl.Entities/1.0.0": {
+      "type": "project",
+      "path": "../CR.MoneyControl.Entities/CR.MoneyControl.Entities.csproj",
+      "msbuildProject": "../CR.MoneyControl.Entities/CR.MoneyControl.Entities.csproj"
+    },
+    "CR.MoneyControl.Models/1.0.0": {
+      "type": "project",
+      "path": "../CR.MoneyControl.Models/CR.MoneyControl.Models.csproj",
+      "msbuildProject": "../CR.MoneyControl.Models/CR.MoneyControl.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CR.MoneyControl.Entities >= 1.0.0",
+      "CR.MoneyControl.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/genaro/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Repositories/CR.MoneyControl.Repositories.csproj",
+      "projectName": "CR.MoneyControl.Repositories",
+      "projectPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Repositories/CR.MoneyControl.Repositories.csproj",
+      "packagesPath": "/Users/genaro/.nuget/packages/",
+      "outputPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Repositories/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/genaro/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/CR.MoneyControl.Entities.csproj": {
+              "projectPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/CR.MoneyControl.Entities.csproj"
+            },
+            "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Models/CR.MoneyControl.Models.csproj": {
+              "projectPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Models/CR.MoneyControl.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

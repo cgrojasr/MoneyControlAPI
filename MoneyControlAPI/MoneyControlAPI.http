@@ -1,0 +1,6 @@
+@MoneyControlAPI_HostAddress = http://localhost:5053
+
+GET {{MoneyControlAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
