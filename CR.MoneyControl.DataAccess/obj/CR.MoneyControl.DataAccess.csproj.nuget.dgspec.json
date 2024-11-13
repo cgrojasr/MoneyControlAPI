@@ -1,33 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.DataAccess/CR.MoneyControl.DataAccess.csproj": {}
+    "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.DataAccess\\CR.MoneyControl.DataAccess.csproj": {}
   },
   "projects": {
-    "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.DataAccess/CR.MoneyControl.DataAccess.csproj": {
+    "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.DataAccess\\CR.MoneyControl.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.DataAccess/CR.MoneyControl.DataAccess.csproj",
+        "projectUniqueName": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.DataAccess\\CR.MoneyControl.DataAccess.csproj",
         "projectName": "CR.MoneyControl.DataAccess",
-        "projectPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.DataAccess/CR.MoneyControl.DataAccess.csproj",
-        "packagesPath": "/Users/genaro/.nuget/packages/",
-        "outputPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.DataAccess/obj/",
+        "projectPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.DataAccess\\CR.MoneyControl.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\cgroj\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/genaro/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\cgroj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Repositories/CR.MoneyControl.Repositories.csproj": {
-                "projectPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Repositories/CR.MoneyControl.Repositories.csproj"
+              "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Repositories\\CR.MoneyControl.Repositories.csproj": {
+                "projectPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Repositories\\CR.MoneyControl.Repositories.csproj"
               }
             }
           }
@@ -72,26 +75,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/CR.MoneyControl.Entities.csproj": {
+    "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Entities\\CR.MoneyControl.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/CR.MoneyControl.Entities.csproj",
+        "projectUniqueName": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Entities\\CR.MoneyControl.Entities.csproj",
         "projectName": "CR.MoneyControl.Entities",
-        "projectPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/CR.MoneyControl.Entities.csproj",
-        "packagesPath": "/Users/genaro/.nuget/packages/",
-        "outputPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/obj/",
+        "projectPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Entities\\CR.MoneyControl.Entities.csproj",
+        "packagesPath": "C:\\Users\\cgroj\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/genaro/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\cgroj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -130,26 +136,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Models/CR.MoneyControl.Models.csproj": {
+    "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Models\\CR.MoneyControl.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Models/CR.MoneyControl.Models.csproj",
+        "projectUniqueName": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Models\\CR.MoneyControl.Models.csproj",
         "projectName": "CR.MoneyControl.Models",
-        "projectPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Models/CR.MoneyControl.Models.csproj",
-        "packagesPath": "/Users/genaro/.nuget/packages/",
-        "outputPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Models/obj/",
+        "projectPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Models\\CR.MoneyControl.Models.csproj",
+        "packagesPath": "C:\\Users\\cgroj\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/genaro/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\cgroj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -188,37 +197,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Repositories/CR.MoneyControl.Repositories.csproj": {
+    "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Repositories\\CR.MoneyControl.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Repositories/CR.MoneyControl.Repositories.csproj",
+        "projectUniqueName": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Repositories\\CR.MoneyControl.Repositories.csproj",
         "projectName": "CR.MoneyControl.Repositories",
-        "projectPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Repositories/CR.MoneyControl.Repositories.csproj",
-        "packagesPath": "/Users/genaro/.nuget/packages/",
-        "outputPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Repositories/obj/",
+        "projectPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Repositories\\CR.MoneyControl.Repositories.csproj",
+        "packagesPath": "C:\\Users\\cgroj\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/genaro/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\cgroj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/CR.MoneyControl.Entities.csproj": {
-                "projectPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Entities/CR.MoneyControl.Entities.csproj"
+              "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Entities\\CR.MoneyControl.Entities.csproj": {
+                "projectPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Entities\\CR.MoneyControl.Entities.csproj"
               },
-              "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Models/CR.MoneyControl.Models.csproj": {
-                "projectPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/CR.MoneyControl.Models/CR.MoneyControl.Models.csproj"
+              "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Models\\CR.MoneyControl.Models.csproj": {
+                "projectPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\CR.MoneyControl.Models\\CR.MoneyControl.Models.csproj"
               }
             }
           }
@@ -253,7 +265,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

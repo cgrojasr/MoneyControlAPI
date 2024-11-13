@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../build/MoneyControlAPI.props" />
+  <Import Project="..\build\MoneyControlAPI.props" />
 </Project>

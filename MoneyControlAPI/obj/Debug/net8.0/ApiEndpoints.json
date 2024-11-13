@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "MoneyControlAPI.Controllers.MetaController",
+    "Method": "BuscarPorId",
+    "RelativePath": "api/Meta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id_meta",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoneyControlAPI.Controllers.MetaController",
+    "Method": "Registrar",
+    "RelativePath": "api/Meta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "metaEntity",
+        "Type": "CR.MoneyControl.Entities.MetaEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoneyControlAPI.Controllers.MetaController",
+    "Method": "Modificar",
+    "RelativePath": "api/Meta",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "metaEntity",
+        "Type": "CR.MoneyControl.Entities.MetaEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoneyControlAPI.Controllers.MetaController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Meta",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id_meta",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoneyControlAPI.Controllers.MetaController",
+    "Method": "ListarPorUsuario",
+    "RelativePath": "api/Meta/ListarPorUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id_usuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

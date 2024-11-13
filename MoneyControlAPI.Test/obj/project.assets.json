@@ -5508,24 +5508,27 @@
     ]
   },
   "packageFolders": {
-    "/Users/genaro/.nuget/packages/": {}
+    "C:\\Users\\cgroj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/MoneyControlAPI.Test/MoneyControlAPI.Test.csproj",
+      "projectUniqueName": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\MoneyControlAPI.Test\\MoneyControlAPI.Test.csproj",
       "projectName": "MoneyControlAPI.Test",
-      "projectPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/MoneyControlAPI.Test/MoneyControlAPI.Test.csproj",
-      "packagesPath": "/Users/genaro/.nuget/packages/",
-      "outputPath": "/Users/genaro/Library/CloudStorage/OneDrive-Personal/Documents/Laboral/UPC/Desarrollo Web/NET Core/MoneyControlAPI/MoneyControlAPI.Test/obj/",
+      "projectPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\MoneyControlAPI.Test\\MoneyControlAPI.Test.csproj",
+      "packagesPath": "C:\\Users\\cgroj\\.nuget\\packages\\",
+      "outputPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\MoneyControlAPI.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/genaro/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\cgroj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5582,7 +5585,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

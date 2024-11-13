@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{216D4F2F-DF21-4278-85E2-3266BF459363}|MoneyControlAPI\\MoneyControlAPI.csproj|e:\\onedrive\\cgrojasr\\onedrive\\documents\\laboral\\upc\\desarrollo web\\net core\\moneycontrolapi\\moneycontrolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{216D4F2F-DF21-4278-85E2-3266BF459363}|MoneyControlAPI\\MoneyControlAPI.csproj|solutionrelative:moneycontrolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216D4F2F-DF21-4278-85E2-3266BF459363}|MoneyControlAPI\\MoneyControlAPI.csproj|e:\\onedrive\\cgrojasr\\onedrive\\documents\\laboral\\upc\\desarrollo web\\net core\\moneycontrolapi\\moneycontrolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216D4F2F-DF21-4278-85E2-3266BF459363}|MoneyControlAPI\\MoneyControlAPI.csproj|solutionrelative:moneycontrolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216D4F2F-DF21-4278-85E2-3266BF459363}|MoneyControlAPI\\MoneyControlAPI.csproj|e:\\onedrive\\cgrojasr\\onedrive\\documents\\laboral\\upc\\desarrollo web\\net core\\moneycontrolapi\\moneycontrolapi\\controllers\\metacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216D4F2F-DF21-4278-85E2-3266BF459363}|MoneyControlAPI\\MoneyControlAPI.csproj|solutionrelative:moneycontrolapi\\controllers\\metacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MetaController.cs",
+              "DocumentMoniker": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\MoneyControlAPI\\Controllers\\MetaController.cs",
+              "RelativeDocumentMoniker": "MoneyControlAPI\\Controllers\\MetaController.cs",
+              "ToolTip": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\MoneyControlAPI\\Controllers\\MetaController.cs",
+              "RelativeToolTip": "MoneyControlAPI\\Controllers\\MetaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:57:33.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\MoneyControlAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MoneyControlAPI\\appsettings.json",
+              "ToolTip": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\MoneyControlAPI\\appsettings.json",
+              "RelativeToolTip": "MoneyControlAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T20:15:43.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\MoneyControlAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MoneyControlAPI\\Program.cs",
+              "ToolTip": "E:\\OneDrive\\cgrojasr\\OneDrive\\Documents\\Laboral\\UPC\\Desarrollo Web\\NET Core\\MoneyControlAPI\\MoneyControlAPI\\Program.cs",
+              "RelativeToolTip": "MoneyControlAPI\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:15:16.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

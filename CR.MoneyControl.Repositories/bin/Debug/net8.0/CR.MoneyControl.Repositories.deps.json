@@ -17,12 +17,18 @@
       },
       "CR.MoneyControl.Entities/1.0.0": {
         "runtime": {
-          "CR.MoneyControl.Entities.dll": {}
+          "CR.MoneyControl.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CR.MoneyControl.Models/1.0.0": {
         "runtime": {
-          "CR.MoneyControl.Models.dll": {}
+          "CR.MoneyControl.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

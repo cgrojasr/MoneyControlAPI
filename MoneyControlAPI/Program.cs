@@ -1,4 +1,7 @@
+using System.Text;
 using CR.MoneyControl.BusinessLogic;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +16,19 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
 // Configurar dependencias del repositorio
 builder.Services.AddScoped<MetaBL>();
+builder.Services.AddScoped<MedioFinancieroBL>();
+
+//JwtBearer
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(
+    options => {
+        options.TokenValidationParameters = new TokenValidationParameters{
+            ValidateIssuerSigningKey = true,
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:Key"]??string.Empty)),
+            ValidateIssuer = false,
+            ValidateAudience = false
+        };
+    }
+);
 
 var app = builder.Build();
 
@@ -31,14 +47,10 @@ app.UseCors(builder =>
     .AllowAnyHeader();
 }); 
 
-app.UseAuthorization();
 //CORS
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapControllers(); //Mapear los controlares dentro de la carpeta Controllers
 
 app.Run();
-
-// record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-// {
-//     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-// }
